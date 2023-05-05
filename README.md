@@ -1,4 +1,3 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjscRO2hvzDj3LglBD_CL96M8iOAwGHonNsg&usqp=CAU)]
 
 <h1 align="center">Hi 👋, I'm Manish Raj</h1>
 <h3 align="center">A Passionate JAVA & Cloud Developer from India.</h3>
